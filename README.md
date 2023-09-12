@@ -1,4 +1,6 @@
 # SQLbuddy allows to copy SQL row data, as well as List format (Excel,CSV) and parse SQL queries out of that data.
+<img width="396" alt="Snag_9965757" src="https://github.com/NIckKilian/SQLbuddy/assets/78666274/2aa6301b-131d-4fff-a8da-b2eac0897e70">
+
 
 IN Satement. Build an IN statement from a list of items
 ![In-Statement](https://github.com/NIckKilian/SQLbuddy/assets/78666274/cdd1b6a1-a271-4f67-a8ca-4e65d0faaf9d)
