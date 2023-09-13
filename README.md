@@ -1,7 +1,7 @@
 # SQLbuddy
 allows to copy SQL row data, as well as List format (Excel,CSV) and parse SQL queries out of that data.
 
-<img width="196" alt="Snag_9965757" src="https://github.com/NIckKilian/SQLbuddy/assets/78666274/c00d6a87-b99b-4eb7-8800-ee7ea36fac1d">
+<img width="196" align="left" alt="Snag_9965757" src="https://github.com/NIckKilian/SQLbuddy/assets/78666274/c00d6a87-b99b-4eb7-8800-ee7ea36fac1d">
 
 
 
